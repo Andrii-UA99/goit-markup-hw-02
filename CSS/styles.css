@@ -97,13 +97,18 @@ text-decoration: underline;
 .hero-btn {
 box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     background: #4d5ae5;
-    color: #fff;
     cursor: pointer;
+        font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.04em;
+        color: #ffffff;
 }
 
 .hero-btn:hover, .hero-btn:focus {
         text-decoration: underline;
-            color: #404bbf;
+        background-color: #404bbf;
 }
 
 
