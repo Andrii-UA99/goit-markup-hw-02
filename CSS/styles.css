@@ -54,7 +54,7 @@ ul li {
 }
 
 .head-nav:hover, .head-nav:focus {
-text-decoration: underline;
+color: #404bbf;
 }
 
 .list {
@@ -95,20 +95,18 @@ text-decoration: underline;
 }
 
 .hero-btn {
-box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
-    cursor: pointer;
-        font-family: "Roboto", sans-serif;
+    font-family: "Roboto", sans-serif;
+        cursor: pointer;
+        background-color: #4d5ae5;
         font-weight: 500;
         font-size: 16px;
         line-height: 1.5;
+        color: #fff;
         letter-spacing: 0.04em;
-        color: #ffffff;
 }
 
 .hero-btn:hover, .hero-btn:focus {
-        text-decoration: underline;
-        background-color: #404bbf;
+background-color: #404BBF;
 }
 
 
